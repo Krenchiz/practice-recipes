@@ -1,0 +1,24 @@
+.recipe-list {
+    font-family: monospace, Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: black;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.home {
+    display: inline-block;
+    background-color: silver;
+}
+
+#home-button {
+    font-weight: 100;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
